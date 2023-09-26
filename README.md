@@ -1,2 +1,2 @@
-# gpjax_workshop
+# GPJax Workshop
 Workshop on parallel computing.
